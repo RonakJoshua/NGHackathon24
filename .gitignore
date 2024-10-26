@@ -157,6 +157,8 @@ cython_debug/
 # Custom
 ronak_learning/PennFudanPed
 ronak_learning/pdp_finetune_weights.pth
+ronak_learning/test_finetune_weights.pth
+# ronak_learning/TestData
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
