@@ -156,8 +156,8 @@ cython_debug/
 
 # Custom
 ronak_learning/PennFudanPed
-ronak_learning/pdp_finetune_weights.pth
-ronak_learning/test_finetune_weights.pth
+*.pth
+/imagenet
 # ronak_learning/TestData
 
 # PyCharm
