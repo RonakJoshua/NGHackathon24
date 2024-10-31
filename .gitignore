@@ -158,7 +158,6 @@ cython_debug/
 ronak_learning/PennFudanPed
 *.pth
 /imagenet
-# ronak_learning/TestData
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
